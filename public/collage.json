@@ -1,0 +1,224 @@
+ 
+    [  {
+        "id": 1,
+        "collage_image": "https://img.freepik.com/free-photo/harvard-university-cambridge-usa_1268-14363.jpg",
+        "collage_name": "University of Science and Technology",
+        "admission_dates": "2023-09-01",
+        "admission_process": "Online application and entrance exam",
+        "events_details": "Annual Science Fair, Cultural Fest",
+        "research_history": "Established in 1985, known for breakthroughs in robotics",
+        "sports": "Football, Basketball, Tennis",
+        "sports_category": "Varsity Athletics"
+      },
+      {
+        "id": 2,
+        "collage_image": "https://cdn.britannica.com/85/13085-050-C2E88389/Corpus-Christi-College-University-of-Cambridge-England.jpg",
+        "collage_name": "Art and Design Institute",
+        "admission_dates": "2023-08-15",
+        "admission_process": "Portfolio assessment and interview",
+        "events_details": "Art Exhibition, Fashion Show",
+        "research_history": "Pioneering new techniques in visual arts",
+        "sports": "Swimming, Volleyball",
+        "sports_category": "Intercollegiate Sports"
+      },
+      {
+        "id": 3,
+        "collage_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5amI48SW5SVZPoFXjfp7psJdAU8DC8yF9zKRKqnv1C_4FAaNEbIoztoRzgnqwcqpuv0U&usqp=CAU",
+        "collage_name": "Business School of Excellence",
+        "admission_dates": "2023-10-10",
+        "admission_process": "Entrance test and group discussion",
+        "events_details": "Entrepreneurship Summit, Business Conclave",
+        "research_history": "Leading in business research and consultancy",
+        "sports": "Cricket, Badminton",
+        "sports_category": "Intramural Sports"
+      },
+      {
+        "id": 4,
+        "collage_image": "https://www.timeshighereducation.com/student/sites/default/files/styles/default/public/james_madison_university.jpg?itok=rzNh-kr_",
+        "collage_name": "Medical College of Innovation",
+        "admission_dates": "2023-07-30",
+        "admission_process": "NEET-UG exam",
+        "events_details": "Medical Symposium, Health Camps",
+        "research_history": "Groundbreaking medical discoveries",
+        "sports": "Table Tennis, Athletics",
+        "sports_category": "Medical Sports"
+      },
+      {
+        "id": 5,
+        "collage_image": "https://www.liberty.edu/wp-content/uploads/join-liberty-as-a-champion-for-christ-20190903_0386KT2.jpg",
+        "collage_name": "Environmental Studies University",
+        "admission_dates": "2023-09-20",
+        "admission_process": "Merit-based admission",
+        "events_details": "Environmental Awareness Week, Eco-Fest",
+        "research_history": "Contributing to environmental conservation",
+        "sports": "Football, Basketball, Swimming",
+        "sports_category": "Eco-friendly Sports"
+      },
+      {
+        "id": 6,
+        "collage_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpqFba1wfCDHXPywNs27TUsdsoA58kR1tRbYnpZ_noBp3vRMhzxbcgsMpU4PDVMI8QauU&usqp=CAU",
+        "collage_name": "Music and Performing Arts Conservatory",
+        "admission_dates": "2023-08-05",
+        "admission_process": "Audition and interview",
+        "events_details": "Concerts, Theatre Productions",
+        "research_history": "Reviving traditional music and art forms",
+        "sports": "None",
+        "sports_category": "N/A"
+      },
+      {
+        "id": 7,
+        "collage_image": "https://fastly.4sqi.net/img/general/200x200/ZhkWuyxDYa9GITUPygZroMM0hUuZQX_xlJgR_iF9VQI.jpg",
+        "collage_name": "Law School of Jurisprudence",
+        "admission_dates": "2023-09-15",
+        "admission_process": "Law School Admission Test (LSAT)",
+        "events_details": "Legal Seminars, Moot Court Competitions",
+        "research_history": "Leading in legal research and advocacy",
+        "sports": "Cricket, Tennis",
+        "sports_category": "Intramural Sports"
+      },
+      {
+        "id": 8,
+        "collage_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2nXHe7gWlRZIIcLWO8qP6ytQI3Kq_cPet3LXwjV_LNvhkE6kifWYk0TsDvQHlUN9aRxY&usqp=CAU",
+        "collage_name": "Journalism and Mass Communication Institute",
+        "admission_dates": "2023-07-25",
+        "admission_process": "Entrance test and interview",
+        "events_details": "Media Summit, Film Screenings",
+        "research_history": "Prominent journalists and media professionals",
+        "sports": "Basketball, Table Tennis",
+        "sports_category": "Intercollegiate Sports"
+      },
+      {
+        "id": 9,
+        "collage_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwJy7cyyVmLV8tWzQPvFvmtnYEWe2CWUMzIi50JOJmMsSdcwLcXmJ5RPKO1GkGIgSpD9A&usqp=CAU",
+        "collage_name": "Engineering and Technology College",
+        "admission_dates": "2023-08-30",
+        "admission_process": "Joint Entrance Examination (JEE)",
+        "events_details": "Tech Expo, Hackathons",
+        "research_history": "Cutting-edge technology research",
+        "sports": "Cricket, Volleyball",
+        "sports_category": "Intramural Sports"
+      },
+      {
+        "id": 10,
+        "collage_image": "hhttps://images.hindustantimes.com/img/2022/04/29/1600x900/1c0990c8-286b-11ec-8390-9108a6051a41_1633720405716_1651267903424.jpg",
+        "collage_name": "Social Sciences and Humanities Academy",
+        "admission_dates": "2023-09-05",
+        "admission_process": "Written test and interview",
+        "events_details": "Social Conferences, Literary Fest",
+        "research_history": "Addressing societal challenges",
+        "sports": "Football, Basketball, Chess",
+        "sports_category": "Varsity Athletics"
+      },
+      {
+        "id": 11,
+        "collage_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1zhK0pR-bSPkdUSKT46lfmiLUXLOTR0zr3A&usqp=CAU",
+        "collage_name": "Dance and Choreography School",
+        "admission_dates": "2023-08-10",
+        "admission_process": "Dance audition and interview",
+        "events_details": "Dance Festivals, Choreography Competitions",
+        "research_history": "Preserving traditional and contemporary dance forms",
+        "sports": "None",
+        "sports_category": "N/A"
+      },
+      {
+        "id": 12,
+        "collage_image": "https://www.annauniv.edu/images/main-slider/slide1.jpeg",
+        "collage_name": "Sports Management Institute",
+        "admission_dates": "2023-07-20",
+        "admission_process": "Sports Aptitude Test (SAT)",
+        "events_details": "Sports Conferences, Sports Events",
+        "research_history": "Leaders in sports business and management research",
+        "sports": "Football, Basketball, Cricket",
+        "sports_category": "Sports Management"
+      },
+      {
+        "id": 13,
+        "collage_image": "https://americancollege.edu.in/wp-content/uploads/2021/02/LIBARAY.jpg",
+        "collage_name": "International Relations College",
+        "admission_dates": "2023-09-25",
+        "admission_process": "Essay and interview",
+        "events_details": "International Relations Symposium",
+        "research_history": "Prominent diplomats and IR scholars",
+        "sports": "None",
+        "sports_category": "N/A"
+      },
+      {
+        "id": 14,
+        "collage_image": "https://americancollege.edu.in/wp-content/uploads/2022/03/IMG_9910-scaled.jpg",
+        "collage_name": "Fine Arts and Sculpture Academy",
+        "admission_dates": "2023-08-25",
+        "admission_process": "Portfolio assessment and interview",
+        "events_details": "Art Exhibitions, Sculpture Workshops",
+        "research_history": "Reviving classical art forms",
+        "sports": "None",
+        "sports_category": "N/A"
+      },
+      {
+        "id": 15,
+        "collage_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE0zfEAgKQzbPAkRsXR--JytEr9AX2DfkKiw&usqp=CAU",
+        "collage_name": "Medical Research University",
+        "admission_dates": "2023-07-15",
+        "admission_process": "Medical Entrance Test (MET)",
+        "events_details": "Medical Research Symposium",
+        "research_history": "Groundbreaking medical discoveries",
+        "sports": "Table Tennis, Athletics",
+        "sports_category": "Medical Sports"
+      },
+      {
+        "id": 16,
+        "collage_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq3MWXmYYtwjUXLLLfWG07tf3GeCbLTR5Ugg&usqp=CAU",
+        "collage_name": "Computer Science and IT Institute",
+        "admission_dates": "2023-09-10",
+        "admission_process": "Computer Science Entrance Exam",
+        "events_details": "Tech Conferences, Coding Competitions",
+        "research_history": "Advancements in computer science and IT",
+        "sports": "Cricket, Badminton",
+        "sports_category": "Intramural Sports"
+      },
+      {
+        "id": 17,
+        "collage_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcvqeT8YX_-NqjRlkVsfzVg44QHdpD1vVs9Q&usqp=CAU",
+        "collage_name": "Language and Linguistics School",
+        "admission_dates": "2023-08-20",
+        "admission_process": "Language Proficiency Test and interview",
+        "events_details": "Linguistics Conference, Language Workshops",
+        "research_history": "Studying diverse languages and their evolution",
+        "sports": "Chess, Table Tennis",
+        "sports_category": "Intercollegiate Sports"
+      },
+      {
+        "id": 18,
+        "collage_image": "https://img.staticmb.com/mbcontent/images/uploads/2021/8/vastu-for-school.jpg",
+        "collage_name": "Business and Entrepreneurship Academy",
+        "admission_dates": "2023-07-05",
+        "admission_process": "Business Aptitude Test (BAT) and interview",
+        "events_details": "Entrepreneurship Summit, Business Competitions",
+        "research_history": "Fostering innovation and startups",
+        "sports": "Football, Basketball, Tennis",
+        "sports_category": "Varsity Athletics"
+      },
+      {
+        "id": 19,
+        "collage_image": "https://static.wixstatic.com/media/ca26cb_aebc49789980478184ca5fc74a3137c7~mv2.jpg/v1/fill/w_640,h_388,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/ca26cb_aebc49789980478184ca5fc74a3137c7~mv2.jpg",
+        "collage_name": "Psychology and Behavioral Sciences Institute",
+        "admission_dates": "2023-09-30",
+        "admission_process": "Psychology Entrance Test (PET)",
+        "events_details": "Psychology Symposium, Counseling Workshops",
+        "research_history": "Advancements in understanding human behavior",
+        "sports": "Football, Volleyball",
+        "sports_category": "Intramural Sports"
+      },
+      {
+        "id": 20,
+        "collage_image": "https://static.wixstatic.com/media/ca26cb_1786d11a818641d58274829871b8cf77~mv2.jpg/v1/fill/w_640,h_804,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ca26cb_1786d11a818641d58274829871b8cf77~mv2.jpg",
+        "collage_name": "Physics and Astronomy Research Center",
+        "admission_dates": "2023-08-30",
+        "admission_process": "Physics Entrance Exam",
+        "events_details": "Astrophysics Conferences, Observatory Visits",
+        "research_history": "Exploring the mysteries of the universe",
+        "sports": "None",
+        "sports_category": "N/A"
+      }
+    ]
+ 
+  
